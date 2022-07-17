@@ -35,7 +35,7 @@ body{
 
 
 .instagram-phone img{
-    height: 50rem;
+    height: 70rem;
 }
 
 .instagram-continue{
@@ -56,12 +56,13 @@ body{
     height: 100vh;
     background-color: white;
     width: 100%;
-    padding: 1.3rem 0;
+    padding: 1.5rem 0;
     border:1px solid lightgray;
 }
 
 .group:nth-child(1){
     min-height: 19rem;
+    
 }
 
 .instagram-logo{
@@ -80,11 +81,14 @@ body{
 .profile-photo img{
     height: 6rem;
 }
+
+
 .instagram-login {
     background-color: #0095f6;
     color: #ffffff;
-    padding: 8px;
+    padding: 10px;
     border-radius: 4px;
+    margin-top: 20px;
 }
 
 .instagram-logout {
