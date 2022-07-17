@@ -8,8 +8,8 @@
 }
 
 body{
-    width:90%;
-    min-height: 90vh;
+    width:100%;
+    min-height: 100vh;
     background-color: rgb(243, 243, 243);
     margin: 0;
     display: flex;
@@ -21,9 +21,9 @@ body{
 .instagram-wrapper {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: start;
     width:60%;
-    height: 90vh;
+    height: 100vh;
     }
 
 .instagram-phone{
@@ -31,7 +31,6 @@ body{
     align-items: center;
     justify-content: center;
     width:60%;
-    height: 90vh;
     } 
 
 
